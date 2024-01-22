@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Divisass</string>
+
+    <string-array name="DIVISAS_NAME">
+        <item>USD</item>
+        <item>GPB</item>
+        <item>JPY</item>
+        <item>CNY</item>
+        <item>CAD</item>
+        <item>ALL</item>
+        <item>BAM</item>
+        <item>ARS</item>
+        <item>DKK</item>
+        <item>LBP</item>
+        <item>CHF</item>
+        <item>AUD</item>
+        <item>HUF</item>
+        <item>MXN</item>
+
+
+    </string-array>
+    <string-array name="DIVISAS_PRECIO">
+        <item>1.08697</item>
+        <item>0.85881</item>
+        <item>160.716</item>
+        <item>7.74205</item>
+        <item>1.46866</item>
+        <item>101.743</item>
+        <item>1.95583</item>
+        <item>889.535</item>
+        <item>7.45761</item>
+        <item>16304.5</item>
+        <item>0.94555</item>
+        <item>1.65148</item>
+        <item>382.140</item>
+        <item>18.5900</item>
+
+
+    </string-array>
+    <string-array name="DIVISAS_LOGO">
+        <item>@drawable/usd</item>
+        <item>@drawable/gpb</item>
+        <item>@drawable/jpy</item>
+        <item>@drawable/cny</item>
+        <item>@drawable/cad</item>
+        <item>@drawable/all</item>
+        <item>@drawable/bam</item>
+        <item>@drawable/ars</item>
+        <item>@drawable/dkk</item>
+        <item>@drawable/lbp1</item>
+        <item>@drawable/suiza</item>
+        <item>@drawable/austra</item>
+        <item>@drawable/hungria</item>
+        <item>@drawable/mxn</item>
+
+    </string-array>
+</resources>
